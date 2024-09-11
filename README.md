@@ -1,4 +1,4 @@
-# Integrated-STR-Control-System
+# Integrated-STR-Controller
 Development of an Integrated STR Control System for Thruster and Direc􀆟on Control of Remotely Operated Vehicles(ROVs)
 
 ## Introduction
