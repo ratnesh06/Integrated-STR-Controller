@@ -1,5 +1,5 @@
 # Integrated-STR-Controller
-Development of an Integrated STR Control System for Thruster and Direc􀆟on Control of Remotely Operated Vehicles(ROVs)
+Development of an Integrated STR Control System for Thruster and Direction Control of Remotely Operated Vehicles(ROVs)
 
 ## Introduction
 Maritime operations stand at the forefront of global exploration, presenting unique challenges in navigation and control. The effectiveness of marine propulsion and guidance systems is paramount, not only for the economic viability of maritime endeavors but also for the safety and environmental impact of these operations. This project is positioned at the cusp of this vital intersection, aiming to engineer a comprehensive control system. Utilizing the computational capabilities of MATLAB, the project is tailored to optimize marine propulsion, addressing the dynamic challenges posed by varying environmental conditions such as directions and velocities of wind and current.  
